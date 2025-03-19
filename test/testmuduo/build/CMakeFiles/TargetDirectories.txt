@@ -1,0 +1,3 @@
+/home/tom/cpp_project/prj1/testmuduo/build/CMakeFiles/server.dir
+/home/tom/cpp_project/prj1/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/tom/cpp_project/prj1/testmuduo/build/CMakeFiles/rebuild_cache.dir
